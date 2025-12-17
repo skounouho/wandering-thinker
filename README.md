@@ -1,0 +1,1 @@
+A simple HTML site hosted on Github Pages.
